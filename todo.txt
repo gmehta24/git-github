@@ -1,0 +1,5 @@
+wash
+clean
+wash
+prepare
+clean today
